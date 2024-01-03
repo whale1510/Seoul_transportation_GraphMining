@@ -7,6 +7,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white)
 ![kakao](https://img.shields.io/badge/KaKaoapi-FFCD00?style=for-the-badge&logo=KaKao&logoColor=white)
+![Custom Badge](https://img.shields.io/badge/Gephi-black?style=for-the-badge)
 
 
 ## contributers
